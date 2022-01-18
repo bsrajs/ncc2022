@@ -1,0 +1,71 @@
+1) Sudhakar Modem,	sudhakar.modem@iitjammu.ac.in
+2) Rahul Pandya, rpandya@iitdh.ac.in
+3) Amitalok Budkuley, 	amitalok@ece.iitkgp.ac.in
+4) Parthajit Mohapatra,	parthajit@iittp.ac.in
+5) Naveen K P,	naveenkp@iittp.ac.in
+6) Rajat Talak,	talak@mit.edu
+7) D Manjunath,	dmanju@ee.iitb.ac.in
+8) Naveen M. B., 	naveenmb@iitdh.ac.in
+9) Tejas P. Bodas,	tejasbodas@gmail.com 
+10) Albert Sunny	albert@iitpkd.ac.in
+11) Jobin Francis,	jobinfrancis@iitpkd.ac.in
+12) Salil Kashyap,	salilkashyap@iitg.ac.in
+13) Sanjeev Gopinath, 	sanjeevg@pes.edu
+14) Ranjitha Prasad,	 ranjitha@iiitd.ac.in
+15) Ribhu Chopra,	ribhufec@iitg.ac.in
+16) Aditya	Nigam,	aditya@iitmandi.ac.in
+17) Arjit	De,	arijit@ece.iitkgp.ac.in
+18) Arpan	Chattopadhyay,	arpanc@iitd.ac.in 
+19) G. V. V.	Sharma,	gadepall@ee.iith.ac.in
+20) Lakshmi	Theagarajan,	lnt@iitpkd.ac.in 
+21) Lalan	Kumar,	lkumar@ee.iitd.ac.in 
+22) Manish	Bhatt,	manishb@iitg.ac.in
+23) Neelam	Sinha,	neelam.sinha@iiitb.ac.in
+24) Niladri	Puhan,	nbpuhan@iitbbs.ac.in
+25) Pravesh	Biyani,	praveshb@iiitd.ac.in
+26) Prithwijit	Guha,	pguha@iitg.ac.in
+27) Rajiv	Soundararajan,	rajivs@iisc.ac.in
+28) Ram Bilas	Pachori,	pachori@iiti.ac.in
+29) Sandeep	Kumar,	ksandeep@ee.iitd.ac.in 
+30) Santosh	Nannuru,	santosh.nannuru@iiit.ac.in
+31) Shanmuganathan	Raman,	shanmuga@iitgn.ac.in
+32) Sheetal	Kalyani,	skalyani@ee.iitm.ac.in
+33) Sri Rama Murty	Kodukula,	ksrm@ee.iith.ac.in 
+34) Sriram	Ganapathy,	sriramg@iisc.ac.in
+35) Sundeep	Chepuri,	spchepuri@iisc.ac.in
+36) Suresh	Sundaram,	sureshsundaram@iitg.ac.in
+37) Tony	Jacob,	tonyj@iitg.ac.in
+38) Uttama	Lahiri,	uttamalahiri@iitgn.ac.in
+39) Vipul	Arora,	vipular@iitk.ac.in
+40) MVS	Aditya,	aditya.mvs369@gmail.com
+41) Sachin Kadam,		sachinkadamiitb@gmail.com
+42) Vaibhav Gupta,		gupta.vaibhav25@gmail.com
+43) Jobish John,		jobishjohn.mklm@gmail.com
+44) Saif Khan Mohammed	,	saifkm@ee.iitd.ac.in
+45) Harshan Jagadeesh,	Harshan.Jagadeesh@ee.iitd.ac.in
+46) Abhishek Dixit,	abhishek.dixit@iitd.ac.in
+47) P. Maheswaran,		mahes@nitt.edu
+48) Abhinav Kumar,	abhinavkumar@ee.iith.ac.in
+49) Aashish Mathur,	aashishmathur@iitj.ac.in
+50) Brijesh Kumbhani,	brijesh@iitrpr.ac.in
+51) Preetam Kumar,	pkumar@iitp.ac.in
+52) Sudhir Kumar,	sudhir@iitp.ac.in
+53) Ankit Dubey,	ankit.dubey@iitjammu.ac.in
+54) Ajay Singh, 	ajay.singh@iitjammu.ac.in
+55) Sumit Gautam,	sumit.gautam@iiti.ac.in
+56) Pravas Ranjan Sahu,	prs@iitbbs.ac.in
+57) Soumya Prakash Dash,	spdash@iitbbs.ac.in
+58) Anoop Thomas,	anoopthomas@iitbbs.ac.in
+59) Jobin Francis,	jobinfrancis@iitpkd.ac.in
+60) Albert Sunny, 	albert@iitpkd.ac.in
+61) Shashank Vatedka,	shashankvatedka@ee.iith.ac.in
+62) Adarsh Patel, 	adarsh@iitmandi.ac.in
+63) M. D. Selvaraj,	selvaraj@iiitdm.ac.in
+64) Prasad Krishnan,	prasad.krishnan@iiit.ac.in
+65) Lalitha Vadlamani,	lalitha.v@iiit.ac.in
+66) Mithun Mukherjee,	China	mithun.mukherjee@outlook.com
+67) Chinmoy Kundu,	Dublin	chinmoy.kundu@ucd.ie
+68) Prabhat Kumar Sharma,	prabhatsharma@ece.vnit.ac.in
+69) Salil Kashyap,	salilkashyap@iitg.ac.in
+
+
